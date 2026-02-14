@@ -1,0 +1,7 @@
+Filter out drafts we don't want
+
+Figure out the pool for each draft deck
+
+Find the n closest draft decks that were x good
+
+Suggest the closest final pool
